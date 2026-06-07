@@ -1,4 +1,4 @@
-//program to find fibonacci series upto given term
+//program to find fibonacci series
 
 import java.util.*;
 
